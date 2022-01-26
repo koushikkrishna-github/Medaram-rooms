@@ -239,7 +239,7 @@ h6 {
 #headerSlider {
     position: relative;
     max-width: 100%;
-    max-height: calc(100vh - 60px);
+    max-height: calc(85vh - 50px);
     margin: 0 auto;
     text-align: center;
 }
